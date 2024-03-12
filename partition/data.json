@@ -1,0 +1,9 @@
+{
+    "Accept": "application/json",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Content-Length": "252",
+    "Content-Type": "application/json",
+    "Host": "httpbin.org",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0",
+    "Modified_Date": "2024-03-11 16:10:58.909413 +00:00"
+}
